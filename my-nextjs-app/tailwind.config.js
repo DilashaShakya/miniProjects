@@ -10,9 +10,11 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        customPurple: '#201c44',
       },
       fontFamily: {
         playfair: ['"Playfair Display"', 'serif'], 
+        poppins: ['Poppins', 'sans-serif'],
       },
     },
   },
