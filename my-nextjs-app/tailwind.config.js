@@ -11,6 +11,7 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
         customPurple: '#201c44',
+        customBrown: '#504444',
       },
       fontFamily: {
         playfair: ['"Playfair Display"', 'serif'], 

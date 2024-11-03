@@ -1,7 +1,7 @@
 'use client'
 import '../fontAwesomeSetup';
 import React from 'react'
-import Todowrapper from '../components/Todowrapper'
+import Todowrapper from '../components/todolist/Todowrapper'
 
 const TodoList = () => {
   return (
