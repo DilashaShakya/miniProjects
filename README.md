@@ -42,15 +42,11 @@ Follow these steps to run all projects locally:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 
-Navigate into the app:
+2. Navigate into the app:cd my-nextjs-app
 
-bash
-Copy
-Edit
-cd my-nextjs-app
-Install dependencies: npm install
-Run the development server: npm run dev
-Open your browser and go to: http://localhost:3000
+3. Install dependencies: npm install
+4. Run the development server: npm run dev
+5. Open your browser and go to: http://localhost:3000
 
 
 Access each project at the following routes:
