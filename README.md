@@ -40,7 +40,7 @@ Follow these steps to run all projects locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/DilashaShakya/miniProjects
 
 2. Navigate into the app:cd my-nextjs-app
 
